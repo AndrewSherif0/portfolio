@@ -65,7 +65,7 @@ const Navigation = () => {
               size="sm"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
             >
-              <a href="/AndrewSherif_cv.pdf" download>
+              <a href="/AndrewSherif_CV.pdf" download>
                 <Download className="w-4 h-4 mr-2" />
                 Download CV
               </a>
